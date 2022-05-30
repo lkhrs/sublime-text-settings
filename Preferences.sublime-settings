@@ -8,8 +8,6 @@
     "color_scheme": "auto",
     "ignored_packages": [
         "GitGutter",
-        "GitHubinator",
-        "HTML-CSS-JS Prettify",
         "Markdown",
         "Notedown",
         "Tailwind CSS Autocomplete",
