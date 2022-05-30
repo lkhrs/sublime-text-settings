@@ -1,0 +1,8 @@
+/* GitGutter Popup Stylesheet - User */
+
+html {
+    --mdpopups-font-mono: monospace;
+}
+.git-gutter div.toolbar symbol {
+    font-family: monospace;
+}

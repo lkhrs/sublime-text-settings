@@ -1,0 +1,8 @@
+{
+	"posix": {
+		"darwin": {
+			"edge": "open -a \"/Applications/Microsoft Edge.app\""
+		}
+	},
+	"browser": "edge"
+}

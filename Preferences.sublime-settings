@@ -1,0 +1,44 @@
+{
+    "theme": "Adaptive.sublime-theme",
+    "font_face": "Rec Mono Duotone",
+    "font_size": 13,
+    "mini_diff": true,
+    "spell_check": false,
+    "save_on_focus_lost": false,
+    "color_scheme": "auto",
+    "ignored_packages": [
+        "GitGutter",
+        "GitHubinator",
+        "HTML-CSS-JS Prettify",
+        "Markdown",
+        "Notedown",
+        "Tailwind CSS Autocomplete",
+        "Vintage",
+    ],
+    "folder_exclude_patterns": [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        ".Trash",
+        ".Trash-*",
+        "public",
+        "resources"
+    ],
+    "dark_color_scheme": "Mariana.sublime-color-scheme",
+    "light_color_scheme": "Breakers.sublime-color-scheme",
+    "added_words": [
+        "shouldn’t",
+        "I’m",
+    ],
+    "auto_complete_triggers": [
+        {
+            "characters": "<",
+            "selector": "text.html",
+        },
+        {
+            "characters": "/",
+            "selector": "string.quoted.double.html,string.quoted.single.html, source.css",
+        }
+    ],
+}
