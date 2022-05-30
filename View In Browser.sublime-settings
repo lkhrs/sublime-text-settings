@@ -1,8 +1,8 @@
 {
-	"posix": {
-		"darwin": {
-			"edge": "open -a \"/Applications/Microsoft Edge.app\""
-		}
-	},
+	// "posix": {
+	// 	"darwin": {
+	// 		"edge": "open -a \"/Applications/Microsoft Edge.app\""
+	// 	}
+	// },
 	"browser": "safari"
 }
