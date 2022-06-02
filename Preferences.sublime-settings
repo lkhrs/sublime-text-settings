@@ -10,7 +10,6 @@
         "GitGutter",
         "Markdown",
         "Notedown",
-        "Tailwind CSS Autocomplete",
         "Vintage",
     ],
     "folder_exclude_patterns": [
