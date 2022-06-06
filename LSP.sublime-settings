@@ -1,18 +1,13 @@
 // Settings in here override those in "LSP/LSP.sublime-settings"
 {
-    "lsp_format_on_save": false,
+    "lsp_format_on_save": true,
+    "semantic_highlighting": true,
+    "inhibit_word_completions": false,
     "clients": {
         "gopls": {
             "enabled": true,
-            "command": [
-                "gopls"
-            ],
-            "initializationOptions": {
-                "experimentalWorkspaceModule": false,
-                "experimentalTemplateSupport": true,
-                "templateExtensions": [
-                    "html"
-                ]
+            "env": {
+                "PATH": "/opt/homebrew/bin/go",
             }
         }
     }
