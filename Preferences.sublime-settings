@@ -9,9 +9,9 @@
     "ignored_packages": [
         "BracketHighlighter",
         "GitGutter",
-        "Markdown",
         "Notedown",
         "RainbowBrackets",
+        "Tailwind CSS Autocomplete",
         "Vintage",
     ],
     "folder_exclude_patterns": [
