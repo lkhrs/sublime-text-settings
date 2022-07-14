@@ -1,4 +1,9 @@
 // Settings in here override those in "LSP-html/LSP-html.sublime-settings"
 {
-	"selector": "text.html.basic, text.html.hugo"
+	"selector": "text.html.basic, text.html.hugo",
+	"html.format.wrapLineLength": 0,
+	"enabled": true,
+	"disabled_capabilities": {
+        "completionProvider": false,
+    },
 }

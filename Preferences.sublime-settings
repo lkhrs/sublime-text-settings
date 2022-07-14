@@ -1,19 +1,28 @@
 {
     "theme": "Adaptive.sublime-theme",
-    "font_face": "Rec Mono Duotone",
-    "font_size": 13,
+    "font_face": "Iosevka Medium",
+    "font_size": 14,
     "mini_diff": true,
     "spell_check": false,
     "save_on_focus_lost": false,
+    "match_brackets_angle": true,
+    "draw_centered": false,
+    "word_wrap": true,
+    "wrap_width": 80,
+    "wrap_width_style": "min",
     "color_scheme": "auto",
+    "auto_complete_cycle": true,
+    "auto_complete_use_history": true,
+    "auto_complete_trailing_symbols": true,
+    "auto_find_in_selection": true,
+    "vintage_start_in_command_mode": true,
+    "relative_line_numbers": true,
     "ignored_packages": [
         "BracketHighlighter",
-        "GitGutter",
         "Markdown",
         "Notedown",
         "RainbowBrackets",
         "Tailwind CSS Autocomplete",
-        "Vintage",
     ],
     "folder_exclude_patterns": [
         ".svn",
@@ -25,20 +34,12 @@
         "public",
         "resources"
     ],
-    "dark_color_scheme": "Mariana.sublime-color-scheme",
-    "light_color_scheme": "Breakers.sublime-color-scheme",
     "added_words": [
         "shouldn’t",
         "I’m",
     ],
-    "auto_complete_triggers": [
-        {
-            "characters": "<",
-            "selector": "text.html",
-        },
-        {
-            "characters": "/",
-            "selector": "string.quoted.double.html,string.quoted.single.html, source.css",
-        }
-    ],
+    "dark_theme": "gruvbox.sublime-theme",
+    "light_theme": "gruvbox.sublime-theme",
+    "dark_color_scheme": "gruvbox (Dark) (Medium).sublime-color-scheme",
+    "light_color_scheme": "gruvbox (Light) (Medium).sublime-color-scheme",
 }

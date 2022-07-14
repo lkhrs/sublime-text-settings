@@ -1,3 +1,12 @@
 [
-
+    // Go to Matching Tag/Tag Pair
+    {
+        "keys": ["ctrl+shift+t"],
+        "command": "emmet_go_to_tag_pair"
+    },
+	// Rename Tag
+    {
+        "keys": ["super+shift+k"],
+        "command": "emmet_rename_tag"
+    },
 ]
