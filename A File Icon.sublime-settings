@@ -1,0 +1,9 @@
+// A File Icon Preferences – User
+// ================================================================
+{
+	"color": "var(--foreground)",
+	"color_on_select": "var(--foreground)",
+	"opacity": 0.5,
+	"opacity_on_hover": 0.5,
+	"force_mode": true,
+}
