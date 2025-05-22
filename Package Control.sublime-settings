@@ -4,7 +4,6 @@
 	"in_process_packages": [
 	],
 	"installed_packages": [
-		"A File Icon",
 		"Catppuccin color schemes",
 		"Copy Relative Path",
 		"DashDoc",
@@ -13,6 +12,7 @@
 		"EasyDiff",
 		"EditorConfig",
 		"Emmet",
+		"FileIcons Mono",
 		"Gomod",
 		"gruvbox",
 		"Hugo Snippets",
