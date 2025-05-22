@@ -6,5 +6,5 @@
 			"safari": "open -a \"/Applications/Safari.app\"",
 		}
 	},
-	"browser": "edge"
+	"browser": "safari"
 }

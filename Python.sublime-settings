@@ -1,0 +1,12 @@
+// These settings override both User and Default settings for the Python syntax
+{
+	"inline_fold.rules": [
+		 // [Python] Fold docstring except for the first line of the docs string.
+        // class Person:
+        //     """
+        //     Some really long docs string. ..."""
+        {
+            "fold_selector": "comment.block.documentation.python - punctuation.definition.comment",
+        }
+	]
+}

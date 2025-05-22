@@ -1,0 +1,10 @@
+// Terminal Settings - User
+{
+  // "terminal": "ghostty",
+  "parameters":
+  [
+    // "--open-in-tab",
+    // "-e %CWD%"
+  ],
+  // "reuse_window": true
+}

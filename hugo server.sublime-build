@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "hugo server -DF --gc --navigateToChanged"
+}
